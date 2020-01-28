@@ -1,4 +1,4 @@
-name: webdriverio-es6-modules-babeljs-mocha-chai
+name: webdriverio-es6-modules-babeljs-mocha-assert
 
 on:
   push:

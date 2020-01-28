@@ -1,7 +1,7 @@
 {
-  "name": "webdriverio-es6-modules-babeljs-mocha-chai",
+  "name": "webdriverio-es6-modules-babeljs-mocha-assert",
   "version": "1.0.0",
-  "description": "WebdriverIO end-to-end test automation boilerplate, using ES6-Modules, BabelJS, Mocha and Chai.",
+  "description": "WebdriverIO end-to-end test automation boilerplate, using ES6-Modules, BabelJS, Mocha and Assert.",
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
     "test": "npx wdio wdio.conf.js",
