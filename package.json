@@ -12,7 +12,6 @@
     "es6 modules",
     "babel",
     "mocha",
-    "chai",
     "sync",
     "boilerplate",
     "example"
