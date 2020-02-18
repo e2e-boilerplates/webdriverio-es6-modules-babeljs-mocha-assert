@@ -1,4 +1,4 @@
-import { strictEqual } from "assert";
+import assert from "assert";
 
 describe("Sandbox", () => {
   before(() => {
@@ -9,7 +9,7 @@ describe("Sandbox", () => {
     const title = browser.getTitle();
     const header = $("h1").getText();
 
-    strictEqual(title, "Sandbox");
-    strictEqual(header, "Sandbox");
+    assert.strictEqual(title, "Sandbox");
+    assert.strictEqual(header, "Sandbox");
   });
 });
