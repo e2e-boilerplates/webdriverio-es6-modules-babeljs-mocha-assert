@@ -37,15 +37,15 @@
   "keywords": [
     "assert",
     "babeljs",
-    "es modules",
+    "es",
     "mocha",
     "webdriverio"
   ],
   "license": "MIT",
-  "name": "webdriverio-es6-modules-babeljs-mocha-assert",
+  "name": "webdriverio-es-modules-babeljs-mocha-assert",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplates/webdriverio-es6-modules-babeljs-mocha-assert.git"
+    "url": "git+https://github.com/e2e-boilerplates/webdriverio-es-modules-babeljs-mocha-assert.git"
   },
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
