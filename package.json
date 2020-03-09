@@ -1,12 +1,12 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-assert/issues"
   },
   "dependencies": {
     "@babel/register": "7.8.6"
   },
-  "description": "WebdriverIO end-to-end test automation boilerplate. Using Using ES Modules, Babel, Mocha and Assert.",
+  "description": "WebdriverIO end-to-end test automation boilerplate. using ES Modules, Babel, Mocha and Assert.",
   "devDependencies": {
     "@babel/cli": "7.8.4",
     "@babel/core": "7.8.7",
@@ -41,11 +41,6 @@
   "keywords": [
     "assert",
     "babel",
-    "boilerplate",
-    "e2e",
-    "e2e tests",
-    "example",
-    "integration test",
     "mocha",
     "webdriverio"
   ],
