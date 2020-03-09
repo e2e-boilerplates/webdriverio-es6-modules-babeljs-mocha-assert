@@ -6,7 +6,7 @@ WebdriverIO end-to-end test automation boilerplate, using ES Modules, Babel, Moc
 
 ## Getting Started
 
-    	git clone git@github.com:e2e-boilerplate/webdriverio-es-modules-babel-mocha-assert.git
-    	cd webdriverio-es-modules-babel-mocha-assert
-    	npm install
-    	npm run test
+    	1. git clone git@github.com:e2e-boilerplate/webdriverio-es-modules-babel-mocha-assert.git
+    	2. cd webdriverio-es-modules-babel-mocha-assert
+    	3. npm install
+    	4. npm run test
