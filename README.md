@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/webdriverio-es-modules-babel-mocha-assert](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-assert/workflows/webdriverio-es-modules-babel-mocha-assert/badge.svg)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-assert/actions?workflow=webdriverio-es-modules-babel-mocha-assert)
+[![GitHub Actions status | e2e-boilerplate/webdriverio-es-modules-babel-mocha-assert](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-assert/workflows/webdriverio-es-modules-babel-mocha-assert/badge.svg)](https://github.com/e2e-boilerplate/webdriverio-es-modules-babel-mocha-assert/actions?workflow=webdriverio-es-modules-babel-mocha-assert) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # WebdriverIO Boilerplate
 
