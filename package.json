@@ -41,14 +41,15 @@
   "keywords": [
     "assert",
     "babel",
-    "boilerplate",
+    "es modules",
+    "mocha",
+    "webdriverio",
     "e2e",
     "e2e tests",
-    "es modules",
-    "example",
+    "boilerplate",
     "integration test",
-    "mocha",
-    "webdriverio"
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
