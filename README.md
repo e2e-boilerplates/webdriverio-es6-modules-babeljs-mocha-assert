@@ -2,7 +2,7 @@
     
 # WebdriverIO Boilerplate
     
-WebdriverIO end-to-end test automation boilerplate, Using [ES Modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/), [Babel](https://babeljs.io), [Mocha](https://mochajs.org) and [Commonjs](https://nodejs.org/api/assert.html).. Clone or fork this repository.
+WebdriverIO end-to-end test automation boilerplate, Using [ES Modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/), [Babel](https://babeljs.io), [Mocha](https://mochajs.org) and [Commonjs](https://nodejs.org/api/assert.html). Clone or fork this repository.
     
 ## Getting Started
     	1. git clone git@github.com:e2e-boilerplate/webdriverio-es-modules-babel-mocha-assert.git
