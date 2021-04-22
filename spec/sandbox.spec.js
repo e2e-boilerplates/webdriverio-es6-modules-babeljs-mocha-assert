@@ -7,7 +7,7 @@ describe("Sandbox", () => {
 
   it("should be on Sandbox", () => {
     const title = browser.getTitle();
-    const header = $("h1").getText();
+    const header = browser.$("h1").getText();
 
     assert.strictEqual(title, "Sandbox");
     assert.strictEqual(header, "Sandbox");
